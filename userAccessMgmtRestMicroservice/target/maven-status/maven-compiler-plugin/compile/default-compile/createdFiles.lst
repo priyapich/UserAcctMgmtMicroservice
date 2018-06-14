@@ -1,0 +1,17 @@
+com\example\accessMgmt\controller\UserAccountMgmtController.class
+com\example\accessMgmt\Entities\AccountSystemIdentity.class
+com\example\accessMgmt\Entities\SystemInfo.class
+com\example\accessMgmt\Entities\UserAccountIdentity.class
+com\example\accessMgmt\repository\AccountRepository.class
+com\example\accessMgmt\UserAccessMgmtRestMicroserviceApplication.class
+com\example\accessMgmt\UserAccessModel\UserAccountModel.class
+com\example\accessMgmt\Entities\UserAccount.class
+com\example\accessMgmt\repository\UserRepository.class
+com\example\accessMgmt\Entities\Account.class
+com\example\accessMgmt\Service\UserAccountService.class
+com\example\accessMgmt\repository\AccountSystemRepository.class
+com\example\accessMgmt\Entities\User.class
+com\example\accessMgmt\repository\UserAccountRepository.class
+com\example\accessMgmt\repository\SystemInfoRepository.class
+com\example\accessMgmt\Service\UserAccountServiceImpl.class
+com\example\accessMgmt\Entities\AccountSystem.class
